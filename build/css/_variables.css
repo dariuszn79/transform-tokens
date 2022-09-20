@@ -1,4 +1,7 @@
 :root {
+  --size-sm: 28rempx;
+  --size-md: 36rempx;
+  --size-lg: 48rempx;
   --color-primary-primary100: #0072c9;
   --color-primary-primary75: #3f94d6;
   --color-primary-primary50: #80b8e4;

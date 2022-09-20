@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 20 Sep 2022 19:14:54 GMT
+// Generated on Tue, 20 Sep 2022 19:22:06 GMT
 
 
 import UIKit
@@ -141,6 +141,9 @@ public class StyleDictionary {
     public static let radiusMd = [object Object]
     public static let radiusSm = [object Object]
     public static let radiusXl = [object Object]
+    public static let sizeLg = CGFloat(768.00)
+    public static let sizeMd = CGFloat(576.00)
+    public static let sizeSm = CGFloat(448.00)
     public static let sizes32 = 32.72
     public static let sizes40 = 40
     public static let sizes60 = 60
