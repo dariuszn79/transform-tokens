@@ -4,28 +4,28 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 18 Sep 2022 21:10:04 GMT
+// Generated on Tue, 20 Sep 2022 19:05:05 GMT
 
 
 #import "StyleDictionarySize.h"
 
 
-float const TypographyTypographyMedH1FontWeight = 300;
-float const TypographyTypographyMedH2FontWeight = 400;
-float const TypographyTypographyMedH3FontWeight = 400;
-float const TypographyTypographyMedH4FontWeight = 500;
-float const TypographyTypographyMedH5FontWeight = 500;
-float const TypographyTypographyMedH6FontWeight = 500;
-float const TypographyTypographyMedPFontWeight = 400;
-float const TypographyTypographyMedCaptionFontWeight = 400;
-float const TypographyTypographyMedButtonLrgFontWeight = 500;
-float const TypographyTypographyMedButtonSmlFontWeight = 500;
-float const TypographyTypographyMedLabelFontWeight = 400;
-float const TypographyTypographyMedLabelBoldFontWeight = 500;
-float const TypographyTypographyMedLinkFontWeight = 400;
-float const TypographyTypographyMedBreadcrumbsLrgFontWeight = 400;
-float const TypographyTypographyMedBreadcrumbsSmlFontWeight = 500;
-float const TypographyTypographyMedFootnoteFontWeight = 400;
+float const TypographyMedH1FontWeight = 300;
+float const TypographyMedH2FontWeight = 400;
+float const TypographyMedH3FontWeight = 400;
+float const TypographyMedH4FontWeight = 500;
+float const TypographyMedH5FontWeight = 500;
+float const TypographyMedH6FontWeight = 500;
+float const TypographyMedPFontWeight = 400;
+float const TypographyMedCaptionFontWeight = 400;
+float const TypographyMedButtonLrgFontWeight = 500;
+float const TypographyMedButtonSmlFontWeight = 500;
+float const TypographyMedLabelFontWeight = 400;
+float const TypographyMedLabelBoldFontWeight = 500;
+float const TypographyMedLinkFontWeight = 400;
+float const TypographyMedBreadcrumbsLrgFontWeight = 400;
+float const TypographyMedBreadcrumbsSmlFontWeight = 500;
+float const TypographyMedFootnoteFontWeight = 400;
 float const TypographyBodyH3FontWeight = 700;
 float const TypographyBodyH4StrikeThroughFontWeight = 500;
 float const TypographyBodyItalicFontWeight = 400;

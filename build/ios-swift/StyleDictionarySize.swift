@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 18 Sep 2022 21:10:04 GMT
+// Generated on Tue, 20 Sep 2022 19:05:05 GMT
 
 
 import UIKit
@@ -16,20 +16,20 @@ public enum StyleDictionarySize {
     public static let bodyItalicFontWeight = 400
     public static let bodyMediumExtendedItalicFontWeight = 500
     public static let bodySuperFontWeight = 900
-    public static let typographyMedBreadcrumbsLrgFontWeight = 400
-    public static let typographyMedBreadcrumbsSmlFontWeight = 500
-    public static let typographyMedButtonLrgFontWeight = 500
-    public static let typographyMedButtonSmlFontWeight = 500
-    public static let typographyMedCaptionFontWeight = 400
-    public static let typographyMedFootnoteFontWeight = 400
-    public static let typographyMedH1FontWeight = 300
-    public static let typographyMedH2FontWeight = 400
-    public static let typographyMedH3FontWeight = 400
-    public static let typographyMedH4FontWeight = 500
-    public static let typographyMedH5FontWeight = 500
-    public static let typographyMedH6FontWeight = 500
-    public static let typographyMedLabelBoldFontWeight = 500
-    public static let typographyMedLabelFontWeight = 400
-    public static let typographyMedLinkFontWeight = 400
-    public static let typographyMedPFontWeight = 400
+    public static let medBreadcrumbsLrgFontWeight = 400
+    public static let medBreadcrumbsSmlFontWeight = 500
+    public static let medButtonLrgFontWeight = 500
+    public static let medButtonSmlFontWeight = 500
+    public static let medCaptionFontWeight = 400
+    public static let medFootnoteFontWeight = 400
+    public static let medH1FontWeight = 300
+    public static let medH2FontWeight = 400
+    public static let medH3FontWeight = 400
+    public static let medH4FontWeight = 500
+    public static let medH5FontWeight = 500
+    public static let medH6FontWeight = 500
+    public static let medLabelBoldFontWeight = 500
+    public static let medLabelFontWeight = 400
+    public static let medLinkFontWeight = 400
+    public static let medPFontWeight = 400
 }
