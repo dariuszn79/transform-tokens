@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 20 Sep 2022 19:36:04 GMT
+// Generated on Tue, 20 Sep 2022 19:49:24 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -26,9 +26,3 @@ float const TypographyMedLinkFontWeight = 400;
 float const TypographyMedBreadcrumbsLrgFontWeight = 400;
 float const TypographyMedBreadcrumbsSmlFontWeight = 500;
 float const TypographyMedFootnoteFontWeight = 400;
-float const TypographyBodyH3FontWeight = 700;
-float const TypographyBodyH4StrikeThroughFontWeight = 500;
-float const TypographyBodyItalicFontWeight = 400;
-float const TypographyBodyExtraBoldCondensedItalicFontWeight = 800;
-float const TypographyBodyMediumExtendedItalicFontWeight = 500;
-float const TypographyBodySuperFontWeight = 900;

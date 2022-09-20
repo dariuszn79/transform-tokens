@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 20 Sep 2022 19:36:04 GMT
+// Generated on Tue, 20 Sep 2022 19:49:24 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -44,15 +44,7 @@ ColorMaterialsG1Blue,
 ColorMaterialsG1Green,
 ColorMaterialsG1Pink,
 ColorMaterialsG1Black,
-ColorMaterialsG1White,
-ColorColorsSemiRed,
-ColorColorsMultipleFills0,
-ColorColorsMultipleFills1,
-ColorColorsSingleBlue,
-ColorColorsRefBlue,
-ColorColorsEmpty,
-ColorColorsSpecialCharacters,
-ColorColorsSpecialCharactersNderung
+ColorMaterialsG1White
 };
 
 @interface StyleDictionaryColor : NSObject
