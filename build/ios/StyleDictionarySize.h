@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 20 Sep 2022 19:36:04 GMT
+// Generated on Tue, 20 Sep 2022 19:49:24 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -25,9 +25,3 @@ extern float const TypographyMedLinkFontWeight;
 extern float const TypographyMedBreadcrumbsLrgFontWeight;
 extern float const TypographyMedBreadcrumbsSmlFontWeight;
 extern float const TypographyMedFootnoteFontWeight;
-extern float const TypographyBodyH3FontWeight;
-extern float const TypographyBodyH4StrikeThroughFontWeight;
-extern float const TypographyBodyItalicFontWeight;
-extern float const TypographyBodyExtraBoldCondensedItalicFontWeight;
-extern float const TypographyBodyMediumExtendedItalicFontWeight;
-extern float const TypographyBodySuperFontWeight;
