@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 20 Sep 2022 19:49:24 GMT
+// Generated on Mon, 10 Oct 2022 14:11:46 GMT
 
 
 import UIKit
@@ -45,13 +45,13 @@ public class StyleDictionary {
     public static let colorTertiaryTertiary25 = UIColor(red: 0.988, green: 0.808, blue: 0.949, alpha: 1)
     public static let colorTertiaryTertiary50 = UIColor(red: 0.980, green: 0.616, blue: 0.898, alpha: 1)
     public static let colorTertiaryTertiary75 = UIColor(red: 0.969, green: 0.424, blue: 0.851, alpha: 1)
-    public static let effectElevationBase = [object Object]
-    public static let effectElevationBoxSml = [object Object]
-    public static let effectElevationInner0 = [object Object]
-    public static let effectElevationInner1 = [object Object]
-    public static let effectElevationLarge = [object Object]
-    public static let effectElevationMed = [object Object]
-    public static let effectElevationOutline = [object Object]
+    public static let effectBase = [object Object]
+    public static let effectBoxSml = [object Object]
+    public static let effectInner0 = [object Object]
+    public static let effectInner1 = [object Object]
+    public static let effectLarge = [object Object]
+    public static let effectMed = [object Object]
+    public static let effectOutline = [object Object]
     public static let fontMedBreadcrumbsLrg = "[object Object]"
     public static let fontMedBreadcrumbsSml = "[object Object]"
     public static let fontMedButtonLrg = "[object Object]"
